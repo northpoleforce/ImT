@@ -1,9 +1,11 @@
-# A imt Flet app
+# A Flet app: ImT
 
-An example of a minimal Flet app.
+A simple tool to stitch images together for posing the Moment
 
-To run the app:
+run the app by python
 
+```angular2html
+python3 main.py
 ```
-flet run [app_directory]
-```
+
+the exe file is also available in the `dist` folder

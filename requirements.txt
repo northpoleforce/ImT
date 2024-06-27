@@ -1,1 +1,4 @@
-flet==0.23.*
+flet~=0.23.1
+pillow~=10.3.0
+opencv-python~=4.10.0.84
+numpy~=1.24.4
